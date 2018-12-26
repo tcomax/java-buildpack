@@ -18,4 +18,4 @@
 # avoid conflicts.
 ---
 version: 3.99.0
-repository_root: ! 'http://www.filehosting.org/file/details/549073'
+repository_root: ! 'https://s3.amazonaws.com/kroudly-lame399'
